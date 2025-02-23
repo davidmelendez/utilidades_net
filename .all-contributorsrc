@@ -20,6 +20,17 @@
         "test",
         "code"
       ]
+    },
+    {
+      "login": "davidmelendez",
+      "name": "Melendez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3834272?v=4",
+      "profile": "https://github.com/davidmelendez",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
