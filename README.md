@@ -18,6 +18,7 @@ Thanks goes to these wonderful people:
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://jakebolam.com"><img src="https://avatars.githubusercontent.com/u/3534236?v=4?s=100" width="100px;" alt="Jake Bolam"/><br /><sub><b>Jake Bolam</b></sub></a><br /><a href="#infra-jakebolam" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/davidmelendez/utilidades_net/commits?author=jakebolam" title="Tests">⚠️</a> <a href="https://github.com/davidmelendez/utilidades_net/commits?author=jakebolam" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/davidmelendez"><img src="https://avatars.githubusercontent.com/u/3834272?v=4?s=100" width="100px;" alt="Melendez"/><br /><sub><b>Melendez</b></sub></a><br /><a href="#infra-davidmelendez" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/davidmelendez/utilidades_net/commits?author=davidmelendez" title="Tests">⚠️</a> <a href="https://github.com/davidmelendez/utilidades_net/commits?author=davidmelendez" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
